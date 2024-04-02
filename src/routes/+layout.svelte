@@ -11,7 +11,7 @@
 
 <header class="fixed top-0 z-50 w-full bg-white bg-opacity-10 backdrop-blur-md flex justify-between items-center py-4 px-6">
   <div class="flex items-center space-x-4">
-    <a href="/" class="text-xl font-bold text-white">EcoTravel</a>
+    <button class="text-xl font-bold text-white" on:click={() => goto('/')}>EcoTravel</button>
   </div>
   
   <div class="flex space-x-4">

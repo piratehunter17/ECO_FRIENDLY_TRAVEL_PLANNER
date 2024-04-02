@@ -28,13 +28,6 @@
         margin-bottom: 1.5rem;
     }
 
-    .transportDetails {
-        padding: 1.4rem;
-        margin-top: 45px;
-        border-radius: 25px;
-        box-shadow: 0px 10px 20px rgba(6, 222, 204, 0.923);
-        transition: box-shadow 0.3s ease;
-    }
 </style>
 
 <main class="p-6">
@@ -59,7 +52,7 @@
     <br><br>
 
     <section class="BenefitSection mt-8">
-        <h2 class="text-2xl font-semibold  mb-4 text-center">Benefits of Eco-Friendly Travel</h2>
+        <h2 class="gradient-text  mb-4 text-center">Benefits of Eco-Friendly Travel</h2>
         <div class="grid grid-cols-2">
             <div class="flex items-center justify-center p-4">
                 <p class="text-center font-semibold p-3">Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -98,7 +91,7 @@
         <section class="mt-8">
             <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-6">
                 <div class="rounded-lg p-6">
-                    <h3 class="text-3xl font-semibold mb-4 text-center">Discover Eco-Friendly Destinations</h3>
+                    <h3 class="gradient-text mb-4 text-center">Discover Eco-Friendly Destinations</h3>
                     <p class="text-lg text-center">Explore our carefully curated selection of eco-friendly destinations
                         that offer sustainable accommodations and unforgettable experiences.</p>
                 </div>
